@@ -1,1 +1,21 @@
 # SpringMVCApp
+antlr-2.7.5H3.jar
+aopalliance-1.0.jar
+classmate-1.3.2.jar
+commons-logging-1.1.1.jar
+dom4j-1.6.1.jar
+hibernate-commons-annotations-4.0.5.Final.jar
+hibernate-core-4.3.11.Final.jar
+javassist-3.21.0-GA.jar
+javax.persistence-2.1.0.jar
+javax.transaction-api-1.2.jar
+jboss-logging-3.2.1.Final.jar
+mysql-connector-java-5.1.45-bin.jar
+spring-aop-4.3.14.RELEASE.jar
+spring-beans-4.3.14.RELEASE.jar
+spring-context-4.3.14.RELEASE.jar
+spring-core-4.3.14.RELEASE.jar
+spring-expression-4.3.14.RELEASE.jar
+spring-jdbc-4.3.14.RELEASE.jar
+spring-orm-4.3.14.RELEASE.jar
+spring-tx-4.3.14.RELEASE.jar
